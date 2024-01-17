@@ -126,8 +126,39 @@ ul{
     padding-top: 25px;
 }
 
-
-
 .Four{
-    flex: auto;
+    display: flex;
+    justify-content: center;
+    padding: 150px;
+}
+
+.Four .box{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    border-radius: 9px;
+    padding: 40px 150px;
+    width: 1000px;
+}
+
+.Four .box .text{
+    color: #E5E7EB;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.Four .box p{
+    color: #E5E7EB;
+    margin: 0;
+
+}
+
+.Four .box button{
+    background-color: #3882F6;
+    border: 2px solid #E5E7EB;
+    border-radius: 14px;
+    color: #E5E7EB;
+    font-weight: bold;
+    font-size: 17px;
+    padding: 0px 50px;
 }
