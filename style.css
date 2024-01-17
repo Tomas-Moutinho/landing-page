@@ -162,3 +162,12 @@ ul{
     font-size: 17px;
     padding: 0px 50px;
 }
+
+.Footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 35px;
+}
