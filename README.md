@@ -1,6 +1,6 @@
 # landing-page
 Odin Project Assignment: Landing Page
-Link: https://www.theodinproject.com/lessons/foundations-landing-page
+https://www.theodinproject.com/lessons/foundations-landing-page
 
 Major Concepts Utilized:
 -FlexBox;
