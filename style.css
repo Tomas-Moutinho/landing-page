@@ -23,7 +23,7 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 0px 275px;
-    margin: 0;
+    margin-bottom: 30px;
 }
 
 .header .logo{
@@ -62,13 +62,13 @@ ul{
     border-color: #3882F6;
     font-weight: bold;
     border-radius: 8px;
-    font-size: 15px;
-    padding: 5px 20px;
+    font-size: 17px;
+    padding: 8px 25px;
 }
 
 
 .image{
-    background-color: rgb(134, 134, 134);
+    background-color: #7c7b7b;
     width: 600px;
     margin-left: 100px;
 }
@@ -83,11 +83,28 @@ ul{
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    margin-bottom: 50px;
 }
 
+.content{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 300px;
+}
 
+.info{
+    text-align: center;
+    max-width: 150px;
+    color: #474747;
+}
 
-
+.info .img{
+    border: solid 4px #3882F6;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 12px;
+    border-radius: 20px;
+}
 
 
 
